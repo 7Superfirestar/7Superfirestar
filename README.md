@@ -4,4 +4,4 @@ I have taken an interest to linux, specifically gentoo, and im studying things l
 
 If you have any questions feel free to DM me or contact me at super.firestar@outlook.com
 
-!! I may be switching from github to other platforms in the future due to microSLOP forcing bloated and useless AI features and privacy violations on the platform.
+!! I may be switching from github to other platforms in the future due to microSLOP forcing bloated and useless AI features and privacy issues on the platform.
