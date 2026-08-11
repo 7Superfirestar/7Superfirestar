@@ -1,7 +1,8 @@
-Hello! My name is 7Super and i enjoy programming in languages like Java and Lua+Luau. I make minecraft mods and modpacks from 1.12.2 and up and for my friends. I am 14 years old and live in Stockholm, Sweden. I am currently learning the basics of java and JSON structuring in forge.
+welcome to my github profile (absolutely not finished)
 
-I have taken an interest to linux, specifically gentoo, and im studying things like online privacy and cybersecurity in my free time.
+i dont do much on github, i used to work on minecraft mods but i stopped
 
-If you have any questions feel free to DM me or contact me at super.firestar@outlook.com
+i am interested in linux, i am planning to switch my main PC to arch
+anyways i might do something productive one day but for now i maybe upload some dotfiles here and there (mainly to clone them myself)
 
-my dotfiles will be uploaded on codeberg. all future projects under this alias will also be ported to codeberg.
+not much else to say
