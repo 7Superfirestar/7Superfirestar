@@ -6,3 +6,5 @@ i am interested in linux, i am planning to switch my main PC to arch
 anyways i might do something productive one day but for now i maybe upload some dotfiles here and there (mainly to clone them myself)
 
 not much else to say
+
+![OS](https://img.shields.io/badge/OS-_ARCH_LINUX-blue?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=%23000000)
