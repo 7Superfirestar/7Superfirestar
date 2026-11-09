@@ -7,4 +7,5 @@ anyways i might do something productive one day but for now i maybe upload some 
 
 not much else to say
 
-![OS](https://img.shields.io/badge/OS-_ARCH_LINUX-blue?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=%23000000)
+![OS]([https://img.shields.io/badge/OS-_ARCH_LINUX-blue?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=%23000000](https://img.shields.io/badge/OS-_GENTOO-%23A85CFF?style=for-the-badge&logo=gentoo
+))
